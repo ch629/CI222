@@ -1,6 +1,8 @@
 
 # Project Planning and Control
 
+[![Join the chat at https://gitter.im/CI222/Lobby](https://badges.gitter.im/CI222/Lobby.svg)](https://gitter.im/CI222/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 To start working:
 
 1. Create github account.
